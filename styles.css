@@ -1,0 +1,47 @@
+
+body{
+  margin: 10% 10%;
+   background-color: #393E46;
+}
+
+
+.conatiner
+{
+  margin: auto;
+  text-align: center;
+  font-size: 3rem;
+  color:pink;
+  width:70%;
+
+
+}
+.conti
+{
+  width: 50%;
+  margin: auto;
+}
+.dice1{
+
+ display: inline-block;
+}
+.dice2
+{
+   display: inline-block;
+}
+.img
+{
+  width: 80%;
+}
+
+p{
+  text-align:center;
+  font-size: 1.7rem;
+  color: yellow;
+}
+.fotter
+{
+  text-align: center;
+  color:red;
+  font-size: 0.9rem;
+  margin:auto;
+}
